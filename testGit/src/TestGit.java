@@ -12,5 +12,6 @@ public class TestGit {
 		System.out.println("Now check from another side");
 		// TODO just test
 		// TODO - test a new branch!
+		// TODO - renamed myself
 	}
 }
