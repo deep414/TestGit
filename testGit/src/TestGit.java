@@ -11,5 +11,6 @@ public class TestGit {
 		System.out.println("check gut hub functionallity");
 		System.out.println("Now check from another side");
 		// TODO just test
+		// more lines
 	}
 }
